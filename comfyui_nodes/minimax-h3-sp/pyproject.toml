@@ -1,0 +1,5 @@
+[project]
+name = "minimax-h3-sp"
+version = "0.1.0"
+description = "MiniMax H3 Ulysses sequence parallel across two or four DGX Spark-class hosts (fork of buqi-code/buqi-minimax-h3-multigpu, MIT)"
+license = { text = "MIT" }
